@@ -1,3 +1,5 @@
+# Project description
+
 When device is rotated, state (information) may be lost.
 To persist that information, one can use onSaveInstanceState to store it in the Bundle;
 
